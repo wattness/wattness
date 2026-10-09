@@ -17,6 +17,8 @@ ercot-ews-check check examples/broken/as-only-offer.xml
 
 <a href="https://github.com/wattness/ercot-ews-check"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ercot-ews-check/check-broken-as-only-offer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ercot-ews-check/check-broken-as-only-offer-light.svg"><img alt="What the last command prints: the broken Ancillary Service Only Offer is blocked with five errors, each giving its location, a fix and, where one applies, the catalogued discrepancy." src="assets/ercot-ews-check/check-broken-as-only-offer-light.svg" width="100%"></picture></a>
 
+To check one document without installing anything, open [Would ERCOT reject this file?](https://huggingface.co/spaces/wattness/ercot-ews-check) on Hugging Face. It runs this checker in your browser, so the document is not uploaded.
+
 ### [unofficial-ercot-mms-skin](https://github.com/wattness/unofficial-ercot-mms-skin)
 
 CSS and design tokens that give in-house market-operations screens the look of ERCOT's Market Management System (MMS). Plain CSS, no framework and no runtime dependencies. It is not ERCOT software.<br><sub>CSS · MIT</sub>
